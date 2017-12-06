@@ -1,4 +1,4 @@
 pom.xml
 target
-src/main
-src/test
+/src1
+.gitmodules
